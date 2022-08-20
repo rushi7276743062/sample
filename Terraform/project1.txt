@@ -1,1 +1,4 @@
-this terraform project
+provider "aws""new" {
+
+
+}
